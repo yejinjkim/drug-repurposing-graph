@@ -34,6 +34,12 @@ We provided a self-contained notebook for easy dissemination
 ### Preprocessing
 We provided a step-by-step manual to preprocess data to node, edge, and node features.
 
-## Graph embedding and ranking model
+### Graph embedding and ranking model
 - This notebook builds a graph (with Pytorch Geometric) and learns node representation using multi-relational variational graph autoencoders. 
 - After deriving the drug embedding, this notebook shows how to build a ranking model (Simple MLP + BPR loss), together with off-the-shelf baseline models.
+
+
+## Citation
+```
+Citation to be added
+```
