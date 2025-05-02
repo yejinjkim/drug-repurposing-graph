@@ -41,5 +41,4 @@ We provided a step-by-step manual to preprocess data to node, edge, and node fea
 
 ## Citation
 ```
-Citation to be added
-```
+Hsieh, K.L., Plascencia-Villa, G., Lin, K.H., Perry, G., Jiang, X. and Kim, Y., 2023. Synthesize heterogeneous biological knowledge via representation learning for Alzheimer’s disease drug repurposing. Iscience, 26(1).```
